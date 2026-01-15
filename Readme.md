@@ -1,11 +1,11 @@
-#Información del estudiante
+## Información del estudiante
 
 * **NOMBRE:** [Santiago Marquez Baeza]
 * **MATRICULA:** [AL03103635]
 * **CARRERA** [IDS]
 * **SEMESTRE** [Sexto]
 
-##INFORMACION DE LA MATERIA
+## INFORMACION DE LA MATERIA
 
 * **MATERIA:** [Diseño de aplicaciones web]
 * **PROFESOR** [Fernando Sañudo B]
